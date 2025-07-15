@@ -67,9 +67,9 @@ I'm a passionate Senior Software Developer currently working at **Mykare Health*
 ## 📫 Let's Connect
 
 - Email: **mailayyams@gmail.com**
-- LinkedIn: [ayyamperumal-s-1b693062](https://www.linkedin.com/in/ayyamperumal-s-1b693062)
+- LinkedIn: [ayyamperumal](https://www.linkedin.com/in/ayyamperumal-s-1b693062)
 - Location: **Kochi, India**
-- GitHub: [github.com/<your-username>](https://github.com/Ayyam-mykare) (replace with your GitHub profile)
+- GitHub: [github.com](https://github.com/Ayyam-mykare)
 
 ---
 
