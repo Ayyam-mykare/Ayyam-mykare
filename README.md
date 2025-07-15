@@ -59,7 +59,6 @@ I'm a passionate Senior Software Developer currently working at **Mykare Health*
 
 - 🏥 Helped scale Mykare’s mobile app to thousands of daily users
 - 📊 Reduced crash rates by 80% through lifecycle-aware optimizations
-- 🧪 Integrated Agora for real-time video consultations with high satisfaction scores
 - 💬 Successfully led multiple UAT and release cycles with high performance and user trust
 
 ---
